@@ -1,4 +1,4 @@
-<h1 align = "center">Legends: Heroes and Monsters - Dayong Wu</h1>
+<h1 align = "center">Legends: Heroes and Monsters</h1>
 
 ---
 

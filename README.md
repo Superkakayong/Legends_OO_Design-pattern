@@ -4,6 +4,8 @@
 
 > ## Background
 >
+> **What's up guys!**
+>
 > In this project, I have created an interesting and colorful RPG game called Legends: **Heroes and Monsters**. The **core** of this project is its **object-oriented design** and **design pattern implementation**. There are **40 classes** in total, which renders the whole project of high **scalability** and **extendability!**
 
 ---

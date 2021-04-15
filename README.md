@@ -23,7 +23,7 @@
 3. Get the team's information (e.g. number of desired heroes).
 4. Let the players select heroes for every hero headcount in the team.
 5. Enter the game map. The players can use **w/a/s/d/i** to perform corresponding actions.
-6. The hero team can enter a market in the map to buy/sell props.
+6. The hero team can enter a market in the map to buy/sell props. 
 7. The restricted areas are not allowed to be visited by the hero team.
 8. There is 50% chance for the hero team to encounter monsters in a common space cell.
 9. The hero team will fight monsters in the common space cell. A fight contains multiple rounds.

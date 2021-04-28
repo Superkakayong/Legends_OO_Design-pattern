@@ -4,6 +4,6 @@
  */
 public class MarketCell extends Cell{
     public MarketCell() {
-        super(Colors.YELLOW_BG + Colors.CYAN + " $ " + Colors.RESET);
+        super(Colors.YELLOW_BG + Colors.CYAN + " $ " + Colors.RESET); 
     }
 }

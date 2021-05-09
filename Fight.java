@@ -3,5 +3,5 @@
  * In this project, both the Hero class and Monster class have implemented this interface.
  */
 public interface Fight {
-    void attack();
+    void attack(); 
 }

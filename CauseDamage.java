@@ -3,5 +3,5 @@
  * be able to inflict other "classes" (i.e. players).
  */
 public interface CauseDamage {
-    double damage(double ability);
+    double damage(double ability); 
 }

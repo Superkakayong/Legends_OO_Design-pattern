@@ -7,7 +7,7 @@ public class Cell {
     public Cell() {}
 
     public Cell(String marker) {
-        this.marker = marker; 
+        this.marker = marker;
     }
 
     public String getMarker() {

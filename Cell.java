@@ -2,7 +2,7 @@
  * This class represents a map cell of the map
  */
 public class Cell {
-    private String marker;
+    private String marker; 
 
     public Cell() {}
 

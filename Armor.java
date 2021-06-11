@@ -6,7 +6,7 @@ public final class Armor extends Prop{
     private int damageReduction;
 
     public Armor(String name, int cost, int requiredLevel, int damageReduction) {
-        super(name, cost, requiredLevel); 
+        super(name, cost, requiredLevel);
         this.damageReduction = damageReduction;
     }
 
